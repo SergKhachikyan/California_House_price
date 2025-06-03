@@ -34,6 +34,9 @@ Using the classic California Housing dataset:
 5. 🧪 Evaluate model performance (MAE, MSE, R²)
 6. 💾 Save the final model
 
+![House](https://github.com/user-attachments/assets/33f31487-354e-4d54-a948-b5415880e741)
+
+
 ## 🚀 Running the Project
 Install dependencies:
 ```bash
